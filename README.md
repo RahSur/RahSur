@@ -1,8 +1,10 @@
- Hi there 👋 This is Rahul,
+ <h2>Hi there 👋 This is Rahul,</h2>
+ 
+ <h1>I'm a Software Engineer and MERN stack developer 🔄!</h1>
 
 
-- 🔭 I’m currently working on MERN Stack Development
-- 🌱 I’m currently learning Machine Learning Techniques
+- 🔭 I’m currently analysing and building cool technical stuffs with ❤.
+- 🌱 I’m currently learning everything which fits into my head.
 - 👯 I’m looking to collaborate on R&D
 - 🤔 I’m looking for help with Futurist tech stuffs
 - 💬 Ask me about anything you feel suspecious
