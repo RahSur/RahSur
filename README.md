@@ -11,4 +11,3 @@
 - 📫 How to reach me: https://rahulsuresh.in/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Im too good in getting more bugs in code than the number of lines in Code 😋
--->
