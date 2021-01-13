@@ -1,6 +1,7 @@
  <h2>Hi there 👋 This is Rahul,</h2>
  
  <h1>I'm a Software Engineer and MERN Stack Developer 🔄!</h1>
+ <p>![](https://komarev.com/ghpvc/?username=RahSur&style=flat-square)</p>
 
 
 - 🔭 I’m currently analysing and building cool technical stuffs with ❤.
