@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on R&D
 - 🤔 I’m looking for help with Futurist tech stuffs
 - 💬 Ask me about anything you feel suspecious
-- 📫 How to reach me: https://rahulsuresh.in/
+- 📫 How to reach me: https://rahulsuresh.info/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Im too good in getting more bugs in code than the number of lines in Code 😋 but fixing those is lots more fun!
