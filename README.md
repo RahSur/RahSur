@@ -35,4 +35,4 @@
 - LinkedIn : [Rahul Suresh](https://www.linkedin.com/in/rahul-suresh30/)
 - Portfolio : [rahulsuresh.info](https://rahulsuresh.info) 
 
-⭐️ From <i>RaHuL</i>
+⭐️ From <p><i>RaHuL</i></p>
