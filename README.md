@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahsur&layout=compact" />
 </a>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=rahsur.visitor-badge)](https://github.com/rahsur)
 
 ### 📫 How to reach me:
 - Email : rahul.suresh307@gmail.com
