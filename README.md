@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on R&D
 - 🤔 I’m looking for help with Futurist tech stuffs
 - 💬 Ask me about anything you feel suspecious
-- 📫 How to reach me: https://rahulsuresh.info/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Im too good in getting more bugs in code than the number of lines in Code 😋 but fixing those is lots more fun!
 
@@ -25,3 +24,8 @@
 <a href="https://github.com/rahsur">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahsur&layout=compact" />
 </a>
+
+### 📫 How to reach me:
+- Email : rahul.suresh307@gmail.com
+- LinkedIn : [Rahul Suresh](https://www.linkedin.com/in/rahul-suresh30/)
+- Portfolio : [rahulsuresh.info](https://rahulsuresh.info) 
