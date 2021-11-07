@@ -9,6 +9,7 @@
 - 💬 Ask me about anything you feel suspecious
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Im too good in getting more bugs in code than the number of lines in Code 😋 but fixing those is lots more fun!
+- ☕ I am always excited to work on some cool projects, reach out to me and let's discuss over tea coz I prefer tea over coffee 😋.
 
 **Languages and Tools:**  
 
