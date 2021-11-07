@@ -26,12 +26,12 @@
 
 <!-- ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahsur&show_icons=true&hide_border=true) -->
 <div style={display:flex"}>
-<a href="https://github.com/rahsur">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahsur&layout=compact" />
-</a>
 <a href="https://app.daily.dev/Rahsur">
   <img src="https://api.daily.dev/devcards/350fd6b9b2664d388c60e2f127f848d8.png?r=av9" width="400" alt="Rahul's Dev Card"/>
 </a>
+<a href="https://github.com/rahsur" style={margin-left:30px}>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahsur&layout=compact" />
+</a>                                                                                                              
 </div>
 
 ### 📫 How to reach me:
