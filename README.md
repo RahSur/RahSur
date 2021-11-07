@@ -29,7 +29,7 @@
 <a href="https://app.daily.dev/Rahsur">
   <img src="https://api.daily.dev/devcards/350fd6b9b2664d388c60e2f127f848d8.png?r=av9" width="400" alt="Rahul's Dev Card"/>
 </a>
-<a href="https://github.com/rahsur" style={margin-left:30px}>
+<a href="https://github.com/rahsur" style={margin-left:100px}>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahsur&layout=compact" />
 </a>                                                                                                              
 </div>
