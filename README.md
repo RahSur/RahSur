@@ -25,11 +25,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <!-- ![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahsur&show_icons=true&hide_border=true) -->
-<div style={display:flex"}>
+<div style="{display:flex; justify-content: space-evenly}">
 <a href="https://app.daily.dev/Rahsur">
   <img src="https://api.daily.dev/devcards/350fd6b9b2664d388c60e2f127f848d8.png?r=av9" width="400" alt="Rahul's Dev Card"/>
 </a>
-<a href="https://github.com/rahsur" style={margin-left:100px}>
+<a href="https://github.com/rahsur">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahsur&layout=compact" />
 </a>                                                                                                              
 </div>
