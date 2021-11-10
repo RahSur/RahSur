@@ -39,6 +39,7 @@
 ### 📫 How to reach me:
 - Email : rahul.suresh307@gmail.com
 - LinkedIn : [Rahul Suresh](https://www.linkedin.com/in/rahul-suresh30/)
-- Portfolio : [rahulsuresh.info](https://rahulsuresh.info) 
+- Portfolio : [rahulsuresh.info](https://rahulsuresh.info)
+- Dev.Page : [Rahul's Dev Page](https://dev.page/rahul_suresh)  
 
 ⭐️ From <b>R</b><i>aHu</i><b>L</b>
