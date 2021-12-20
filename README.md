@@ -1,6 +1,6 @@
  <h2>Hi there 👋 This is Rahul,</h2>
  
- <h1>I'm a Software Engineer and MERN Stack Developer 🚀 </h1>
+ <h1>I'm a MERN Stack Developer and a Technophile 🚀 </h1>
 
 - 🔭 I’m currently analysing and building cool technical stuffs with ❤.
 - 🌱 I’m currently learning everything which fits into my head.
